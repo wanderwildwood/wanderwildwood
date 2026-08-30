@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/wanderwildwood/wanderwildwood/master/wander.jpg" width="150" alt="A small drawn figure in a pointed hat and round glasses">
-
 I make small things, mostly for a little E Ink phone. They keep to themselves — no accounts,
 nothing sent anywhere, nothing that needs looking after. Most of the work is deciding what to
 leave out.
