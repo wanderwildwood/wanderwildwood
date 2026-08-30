@@ -27,7 +27,4 @@ Three are written from scratch; three are forks, and say whose work they continu
 repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to be told about
 new releases.
 
-They are meant to feel like one shop, built to one house style so that the sixth app agrees
-with the first.
-
 Something broken, or an app not doing a thing you expected it to? The issue trackers are open.
