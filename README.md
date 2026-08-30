@@ -1,6 +1,16 @@
-Apps for the [Mudita Kompakt](https://mudita.com/products/kompakt/) — a phone with a small
-E Ink screen, no colour, and a slow redraw. Everything here is built for that screen: black
-on white, no animation, lists you can read in sunlight.
+<img src="https://raw.githubusercontent.com/wanderwildwood/wanderwildwood/master/wander.jpg" width="150" alt="A small drawn figure in a pointed hat and round glasses">
+
+I make small things, mostly for a little E Ink phone. They keep to themselves — no accounts,
+nothing sent anywhere, nothing that needs looking after. Most of the work is deciding what to
+leave out.
+
+There is a plainer index of it all at [wanderwildwood.github.io](https://wanderwildwood.github.io).
+
+### Apps for the Mudita Kompakt
+
+The [Kompakt](https://mudita.com/products/kompakt/) is a phone with a small E Ink screen, no
+colour, and a slow redraw. These are built for that screen: black on white, no animation, lists
+you can read in sunlight.
 
 None of them phone home. None carry analytics, accounts or crash reporting. Where an app has
 no business reaching the network, it holds no internet permission at all, so the question
