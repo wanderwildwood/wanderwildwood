@@ -27,11 +27,12 @@ GPL, and every release publishes a `.sha256` beside the APK.
 | [**Whereabouts**](https://github.com/wanderwildwood/ibasho) | Finds your own phone, and shows where the people who agreed to share are, through a server you run yourself | [APK](https://github.com/wanderwildwood/ibasho/releases/latest/download/whereabouts.apk) |
 | [**Speedometer**](https://github.com/wanderwildwood/sokudokei) | How fast, how high, and what the air is doing; press the number and it fills the screen | [APK](https://github.com/wanderwildwood/sokudokei/releases/latest/download/sokudokei.apk) |
 | [**Level**](https://github.com/wanderwildwood/mizumori) | A spirit level; it knows whether you are holding it flat or on edge, and says level only when it is | [APK](https://github.com/wanderwildwood/mizumori/releases/latest/download/mizumori.apk) |
+| [**Star Chart**](https://github.com/wanderwildwood/seizu) | The sky over you, drawn like a paper atlas; set it to any time and anywhere | [APK](https://github.com/wanderwildwood/seizu/releases/latest/download/seizu.apk) |
 | [**Cycle**](https://github.com/wanderwildwood/cycle) | A cycle tracker with no permissions at all | [APK](https://github.com/wanderwildwood/cycle/releases/latest/download/cycle.apk) |
 | [**Go**](https://github.com/wanderwildwood/kuroban) | A game of Go on a 9×9 board, against GNU Go or the person opposite | [APK](https://github.com/wanderwildwood/kuroban/releases/latest/download/kuroban.apk) |
 | [**Chess+**](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource) | The phone's own chess app, with a second player in it | [APK](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource/releases/latest/download/chessplus.apk) |
 
-Five are written from scratch; seven are forks, and say whose work they continue. Each
+Five are written from scratch; eight are forks, and say whose work they continue. Each
 repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to be told about
 new releases.
 
