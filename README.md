@@ -21,11 +21,12 @@ beside the APK.
 | [**Audio Reading**](https://github.com/wanderwildwood/mimidoku) | An audiobook player. Point it at a folder and it reads what is in it | [APK](https://github.com/wanderwildwood/mimidoku/releases/latest/download/mimidoku.apk) |
 | [**Music Box**](https://github.com/wanderwildwood/jimeikin) | A music player, for a folder of your own music and for YouTube Music | [APK](https://github.com/wanderwildwood/jimeikin/releases/latest/download/jimeikin.apk) |
 | [**Birding**](https://github.com/wanderwildwood/tancho) | Names the birds it hears, offline, with BirdNET running on the phone | [APK](https://github.com/wanderwildwood/tancho/releases/latest/download/tancho.apk) |
+| [**Detour**](https://github.com/wanderwildwood/yorimichi) | Press once and it picks somewhere near you to walk to, and gives you an arrow to follow | [APK](https://github.com/wanderwildwood/yorimichi/releases/latest/download/yorimichi.apk) |
 | [**Cycle**](https://github.com/wanderwildwood/cycle) | A cycle tracker with no permissions at all | [APK](https://github.com/wanderwildwood/cycle/releases/latest/download/cycle.apk) |
 | [**Go**](https://github.com/wanderwildwood/kuroban) | A game of Go on a 9×9 board, against GNU Go or the person opposite | [APK](https://github.com/wanderwildwood/kuroban/releases/latest/download/kuroban.apk) |
 | [**Chess+**](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource) | The phone's own chess app, with a second player in it | [APK](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource/releases/latest/download/chessplus.apk) |
 
-Three are written from scratch; four are forks, and say whose work they continue. Each
+Four are written from scratch; four are forks, and say whose work they continue. Each
 repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to be told about
 new releases.
 
