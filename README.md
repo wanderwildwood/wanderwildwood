@@ -25,11 +25,12 @@ GPL, and every release publishes a `.sha256` beside the APK.
 | [**Mushroom Journal**](https://github.com/wanderwildwood/kinokocho) | Write a mushroom down properly while you are standing over it, and narrow what it might be; it never decides, and never says anything about eating one | [APK](https://github.com/wanderwildwood/kinokocho/releases/latest/download/kinokocho.apk) |
 | [**Detour**](https://github.com/wanderwildwood/yorimichi) | Press once and it picks somewhere near you to walk to, and gives you an arrow to follow | [APK](https://github.com/wanderwildwood/yorimichi/releases/latest/download/yorimichi.apk) |
 | [**Whereabouts**](https://github.com/wanderwildwood/ibasho) | Finds your own phone, and shows where the people who agreed to share are, through a server you run yourself | [APK](https://github.com/wanderwildwood/ibasho/releases/latest/download/whereabouts.apk) |
+| [**Speedometer**](https://github.com/wanderwildwood/sokudokei) | How fast, how high, and what the air is doing; press the number and it fills the screen | [APK](https://github.com/wanderwildwood/sokudokei/releases/latest/download/sokudokei.apk) |
 | [**Cycle**](https://github.com/wanderwildwood/cycle) | A cycle tracker with no permissions at all | [APK](https://github.com/wanderwildwood/cycle/releases/latest/download/cycle.apk) |
 | [**Go**](https://github.com/wanderwildwood/kuroban) | A game of Go on a 9×9 board, against GNU Go or the person opposite | [APK](https://github.com/wanderwildwood/kuroban/releases/latest/download/kuroban.apk) |
 | [**Chess+**](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource) | The phone's own chess app, with a second player in it | [APK](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource/releases/latest/download/chessplus.apk) |
 
-Five are written from scratch; five are forks, and say whose work they continue. Each
+Five are written from scratch; six are forks, and say whose work they continue. Each
 repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to be told about
 new releases.
 
