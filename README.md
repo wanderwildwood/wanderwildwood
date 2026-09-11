@@ -20,6 +20,7 @@ beside the APK.
 | [**Messaging**](https://github.com/wanderwildwood/kotozute) | SMS, MMS and Signal in one inbox, and a page your phone serves to your own computer so you can text from a keyboard | [APK](https://github.com/wanderwildwood/kotozute/releases/latest/download/kotozute.apk) |
 | [**Audio Reading**](https://github.com/wanderwildwood/mimidoku) | An audiobook player. Point it at a folder and it reads what is in it | [APK](https://github.com/wanderwildwood/mimidoku/releases/latest/download/mimidoku.apk) |
 | [**Music Box**](https://github.com/wanderwildwood/jimeikin) | A music player, for a folder of your own music and for YouTube Music | [APK](https://github.com/wanderwildwood/jimeikin/releases/latest/download/jimeikin.apk) |
+| [**Clippings**](https://github.com/wanderwildwood/kirinuki) | Feeds read as plain text, with Gemini, gopher and Spartan alongside them; fetched on wifi, read with the radio off | [APK](https://github.com/wanderwildwood/kirinuki/releases/latest/download/kirinuki.apk) |
 | [**Birding**](https://github.com/wanderwildwood/tancho) | Names the birds it hears, offline, with BirdNET running on the phone | [APK](https://github.com/wanderwildwood/tancho/releases/latest/download/tancho.apk) |
 | [**Mushroom Journal**](https://github.com/wanderwildwood/kinokocho) | Write a mushroom down properly while you are standing over it, and narrow what it might be; it never decides, and never says anything about eating one | [APK](https://github.com/wanderwildwood/kinokocho/releases/latest/download/kinokocho.apk) |
 | [**Detour**](https://github.com/wanderwildwood/yorimichi) | Press once and it picks somewhere near you to walk to, and gives you an arrow to follow | [APK](https://github.com/wanderwildwood/yorimichi/releases/latest/download/yorimichi.apk) |
@@ -31,7 +32,7 @@ beside the APK.
 | [**Go**](https://github.com/wanderwildwood/kuroban) | A game of Go on a 9×9 board, against GNU Go or the person opposite | [APK](https://github.com/wanderwildwood/kuroban/releases/latest/download/kuroban.apk) |
 | [**Chess+**](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource) | The phone's own chess app, with a second player in it | [APK](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource/releases/latest/download/chessplus.apk) |
 
-Five are written from scratch; eight are forks, and say whose work they continue. Each
+Five are written from scratch; nine are forks, and say whose work they continue. Each
 repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to be told about
 new releases.
 
