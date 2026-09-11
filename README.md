@@ -12,9 +12,8 @@ you can read in sunlight.
 
 None of them phone home. None carry analytics, accounts or crash reporting. Where an app has
 no business reaching the network, it holds no internet permission at all, so the question
-cannot arise. Whereabouts is the one that has to send something somewhere; it sends to a
-server you run yourself, encrypted before it leaves the phone. All are under version 3 of the
-GPL, and every release publishes a `.sha256` beside the APK.
+cannot arise. All are under version 3 of the GPL, and every release publishes a `.sha256`
+beside the APK.
 
 | | | |
 |---|---|---|
@@ -24,7 +23,6 @@ GPL, and every release publishes a `.sha256` beside the APK.
 | [**Birding**](https://github.com/wanderwildwood/tancho) | Names the birds it hears, offline, with BirdNET running on the phone | [APK](https://github.com/wanderwildwood/tancho/releases/latest/download/tancho.apk) |
 | [**Mushroom Journal**](https://github.com/wanderwildwood/kinokocho) | Write a mushroom down properly while you are standing over it, and narrow what it might be; it never decides, and never says anything about eating one | [APK](https://github.com/wanderwildwood/kinokocho/releases/latest/download/kinokocho.apk) |
 | [**Detour**](https://github.com/wanderwildwood/yorimichi) | Press once and it picks somewhere near you to walk to, and gives you an arrow to follow | [APK](https://github.com/wanderwildwood/yorimichi/releases/latest/download/yorimichi.apk) |
-| [**Whereabouts**](https://github.com/wanderwildwood/ibasho) | Finds your own phone, and shows where the people who agreed to share are, through a server you run yourself | [APK](https://github.com/wanderwildwood/ibasho/releases/latest/download/whereabouts.apk) |
 | [**Speedometer**](https://github.com/wanderwildwood/sokudokei) | How fast, how high, and what the air is doing; press the number and it fills the screen | [APK](https://github.com/wanderwildwood/sokudokei/releases/latest/download/sokudokei.apk) |
 | [**Tuning Fork**](https://github.com/wanderwildwood/onsa) | A tuner — chromatic, per-instrument, and well past equal temperament if you want it | [APK](https://github.com/wanderwildwood/onsa/releases/latest/download/onsa.apk) |
 | [**Level**](https://github.com/wanderwildwood/mizumori) | A spirit level; it knows whether you are holding it flat or on edge, and says level only when it is | [APK](https://github.com/wanderwildwood/mizumori/releases/latest/download/mizumori.apk) |
