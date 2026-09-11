@@ -36,7 +36,7 @@ repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to
 new releases.
 
 These are free and they stay free; there is nothing here to buy. If you would like to send
-something somewhere anyway, there are some llamas in Hot Springs, North Carolina who go
-through a great deal of hay: <https://hotspringsllamas.org/donate/>
+something somewhere anyway, there are some llamas who go through a great deal of hay:
+<https://hotspringsllamas.org/donate/>
 
 Something broken, or an app not doing a thing you expected it to? The issue trackers are open.
