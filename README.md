@@ -31,8 +31,9 @@ beside the APK.
 | [**Cycle**](https://github.com/wanderwildwood/cycle) | A cycle tracker with no permissions at all | [APK](https://github.com/wanderwildwood/cycle/releases/latest/download/cycle.apk) |
 | [**Go**](https://github.com/wanderwildwood/kuroban) | A game of Go on a 9×9 board, against GNU Go or the person opposite | [APK](https://github.com/wanderwildwood/kuroban/releases/latest/download/kuroban.apk) |
 | [**Chess+**](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource) | The phone's own chess app, with a second player in it | [APK](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource/releases/latest/download/chessplus.apk) |
+| [**Handheld Games**](https://github.com/wanderwildwood/keitaiyugi) | Game Boy games, drawn in four greys for a screen that has no colour; the picture lands at exactly three times size and nothing is resampled | [APK](https://github.com/wanderwildwood/keitaiyugi/releases/latest/download/keitaiyugi.apk) |
 
-Five are written from scratch; nine are forks, and say whose work they continue. Each
+Five are written from scratch; ten are forks, and say whose work they continue. Each
 repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to be told about
 new releases.
 
