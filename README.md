@@ -12,16 +12,17 @@ you can read in sunlight.
 
 None of them phone home. None carry analytics, accounts or crash reporting. Where an app has
 no business reaching the network, it holds no internet permission at all, so the question
-cannot arise. All are under version 3 of the GPL, and every release publishes a `.sha256`
-beside the APK.
+cannot arise. All are under version 3 of the GPL — Messaging under the Affero GPL, because it
+carries Signal's own code — and every release publishes a `.sha256` beside the APK.
 
 | | | |
 |---|---|---|
 | [**Messaging**](https://github.com/wanderwildwood/kotozute) | SMS, MMS and Signal in one inbox, and a page your phone serves to your own computer so you can text from a keyboard | [APK](https://github.com/wanderwildwood/kotozute/releases/latest/download/kotozute.apk) |
 | [**Audio Reading**](https://github.com/wanderwildwood/mimidoku) | An audiobook player. Point it at a folder and it reads what is in it | [APK](https://github.com/wanderwildwood/mimidoku/releases/latest/download/mimidoku.apk) |
 | [**Music Box**](https://github.com/wanderwildwood/jimeikin) | A music player, for a folder of your own music and for YouTube Music | [APK](https://github.com/wanderwildwood/jimeikin/releases/latest/download/jimeikin.apk) |
+| [**Typewriter**](https://github.com/wanderwildwood/dajiki) | A text editor that opens in landscape and stays there, for writing with a keyboard plugged into the phone | [APK](https://github.com/wanderwildwood/dajiki/releases/latest/download/dajiki.apk) |
 | [**Clippings**](https://github.com/wanderwildwood/kirinuki) | Feeds read as plain text, with Gemini, gopher and Spartan alongside them; fetched on wifi, read with the radio off | [APK](https://github.com/wanderwildwood/kirinuki/releases/latest/download/kirinuki.apk) |
-| [**Birding**](https://github.com/wanderwildwood/tancho) | Names the birds it hears, offline, with BirdNET running on the phone | [APK](https://github.com/wanderwildwood/tancho/releases/latest/download/tancho.apk) |
+| [**Birding**](https://github.com/wanderwildwood/tancho) | Names the birds it hears, offline, with BirdNET running on the phone; a bird's Wikipedia page is a press away, opened in your browser | [APK](https://github.com/wanderwildwood/tancho/releases/latest/download/tancho.apk) |
 | [**Mushroom Journal**](https://github.com/wanderwildwood/kinokocho) | Write a mushroom down properly while you are standing over it, and narrow what it might be; it never decides, and never says anything about eating one | [APK](https://github.com/wanderwildwood/kinokocho/releases/latest/download/kinokocho.apk) |
 | [**Detour**](https://github.com/wanderwildwood/yorimichi) | Press once and it picks somewhere near you to walk to, and gives you an arrow to follow | [APK](https://github.com/wanderwildwood/yorimichi/releases/latest/download/yorimichi.apk) |
 | [**Speedometer**](https://github.com/wanderwildwood/sokudokei) | How fast, how high, and what the air is doing; press the number and it fills the screen | [APK](https://github.com/wanderwildwood/sokudokei/releases/latest/download/sokudokei.apk) |
@@ -33,12 +34,15 @@ beside the APK.
 | [**Chess+**](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource) | The phone's own chess app, with a second player in it | [APK](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource/releases/latest/download/chessplus.apk) |
 | [**Handheld Games**](https://github.com/wanderwildwood/keitaiyugi) | Game Boy games, drawn in four greys for a screen that has no colour; the picture lands at exactly three times size and nothing is resampled | [APK](https://github.com/wanderwildwood/keitaiyugi/releases/latest/download/keitaiyugi.apk) |
 
-Five are written from scratch; ten are forks, and say whose work they continue. Each
+Six are written from scratch; ten are forks, and say whose work they continue. Each
 repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to be told about
 new releases.
 
 These are free and they stay free; there is nothing here to buy. If you would like to send
 something somewhere anyway, there are some llamas who go through a great deal of hay:
 <https://hotspringsllamas.org/donate/>
+
+Every word each app shows is in one `strings.xml` in its repository, so any of them can be
+translated. A translation from someone who speaks the language is very welcome.
 
 Something broken, or an app not doing a thing you expected it to? The issue trackers are open.
