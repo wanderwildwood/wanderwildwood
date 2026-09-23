@@ -12,7 +12,8 @@ you can read in sunlight.
 
 None of them phone home. None carry analytics, accounts or crash reporting. Where an app has
 no business reaching the network, it holds no internet permission at all, so the question
-cannot arise. All are under version 3 of the GPL — Messaging under the Affero GPL, because it
+cannot arise. Whereabouts is the one that has to send something somewhere; it sends to a
+server you run yourself, encrypted before it leaves the phone. All are under version 3 of the GPL — Messaging under the Affero GPL, because it
 carries Signal's own code — and every release publishes a `.sha256` beside the APK.
 
 | | | |
@@ -25,6 +26,7 @@ carries Signal's own code — and every release publishes a `.sha256` beside the
 | [**Birding**](https://github.com/wanderwildwood/tancho) | Names the birds it hears, offline, with BirdNET running on the phone; a bird's Wikipedia page is a press away, opened in your browser | [APK](https://github.com/wanderwildwood/tancho/releases/latest/download/tancho.apk) |
 | [**Mushroom Journal**](https://github.com/wanderwildwood/kinokocho) | Write a mushroom down properly while you are standing over it, and narrow what it might be; it never decides, and never says anything about eating one | [APK](https://github.com/wanderwildwood/kinokocho/releases/latest/download/kinokocho.apk) |
 | [**Detour**](https://github.com/wanderwildwood/yorimichi) | Press once and it picks somewhere near you to walk to, and gives you an arrow to follow | [APK](https://github.com/wanderwildwood/yorimichi/releases/latest/download/yorimichi.apk) |
+| [**Whereabouts**](https://github.com/wanderwildwood/ibasho) | Finds your phone when it is lost; with [its server](https://github.com/wanderwildwood/ibasho-server), the people who share with you on one map | [APK](https://github.com/wanderwildwood/ibasho/releases/latest/download/whereabouts.apk) |
 | [**Speedometer**](https://github.com/wanderwildwood/sokudokei) | How fast, how high, and what the air is doing; press the number and it fills the screen | [APK](https://github.com/wanderwildwood/sokudokei/releases/latest/download/sokudokei.apk) |
 | [**Tuning Fork**](https://github.com/wanderwildwood/onsa) | A tuner — chromatic, per-instrument, and well past equal temperament if you want it | [APK](https://github.com/wanderwildwood/onsa/releases/latest/download/onsa.apk) |
 | [**Level**](https://github.com/wanderwildwood/mizumori) | A spirit level; it knows whether you are holding it flat or on edge, and says level only when it is | [APK](https://github.com/wanderwildwood/mizumori/releases/latest/download/mizumori.apk) |
@@ -34,7 +36,7 @@ carries Signal's own code — and every release publishes a `.sha256` beside the
 | [**Chess+**](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource) | The phone's own chess app, with a second player in it | [APK](https://github.com/wanderwildwood/MuditaOS-K-Chess-opensource/releases/latest/download/chessplus.apk) |
 | [**Handheld Games**](https://github.com/wanderwildwood/keitaiyugi) | Game Boy games, drawn in four greys for a screen that has no colour; the picture lands at exactly three times size and nothing is resampled | [APK](https://github.com/wanderwildwood/keitaiyugi/releases/latest/download/keitaiyugi.apk) |
 
-Six are written from scratch; ten are forks, and say whose work they continue. Each
+Six are written from scratch; eleven are forks, and say whose work they continue. Each
 repository can be added to [Obtainium](https://github.com/ImranR98/Obtainium) to be told about
 new releases.
 
