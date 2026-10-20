@@ -16,11 +16,3 @@ is on the phone. At dusk the lantern comes on and you make camp. Open the game t
 tent is there, Kumo asleep beside it, and the notebook has drawn everything you met.
 
 Coming 13 November 2026.
-
----
-
-I make small things, mostly for a little E Ink phone: the everyday things a phone is for, and a
-few for walking, listening and playing. Some talk to the home servers I tinker with. They keep to themselves — no accounts, nothing sent
-to me, nothing that needs looking after. Most of the work is deciding what to leave out.
-
-Every app, with a picture and a link to download it, is at [wanderthe.dev](https://wanderthe.dev).
