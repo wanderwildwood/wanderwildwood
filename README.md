@@ -1,13 +1,13 @@
 ## Wander / 散歩 sanpo
 
+[![Supper by the fire at nightfall in the dark wood: wander with the pan on, a cup of tea, Kumo the llama lying by](https://wanderthe.dev/shots/sanpo.gif)](https://wanderthe.dev/#wander)
+
 I'm working on my first game: a walk in the redwoods with Kumo the llama. It takes after Fumito
 Ueda's ICO and Shadow of the Colossus, Might and Delight's Book of Travels, Superbrothers' Sword &
 Sworcery, and the way Jason Rohrer lets a game's rules carry its meaning. Nothing to win: mushrooms and berries to pick, animals to wait for, a notebook that
 draws what you meet.
 
 Coming 13 November 2026.
-
-[![Supper by the fire at nightfall in the dark wood: wander with the pan on, a cup of tea, Kumo the llama lying by](https://wanderthe.dev/shots/sanpo.gif)](https://wanderthe.dev/#wander)
 
 ---
 
