@@ -2,8 +2,7 @@
 
 I'm working on my first game: a walk in the redwoods with Kumo the llama. It takes after Fumito
 Ueda's ICO and Shadow of the Colossus, Might and Delight's Book of Travels, Superbrothers' Sword &
-Sworcery, the pauses in Hayao Miyazaki's films, and the way Jason Rohrer lets a game's rules carry
-its meaning. Nothing to win: mushrooms and berries to pick, animals to wait for, a notebook that
+Sworcery, and the way Jason Rohrer lets a game's rules carry its meaning. Nothing to win: mushrooms and berries to pick, animals to wait for, a notebook that
 draws what you meet.
 
 Coming 13 November 2026.
