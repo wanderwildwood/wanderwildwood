@@ -8,9 +8,9 @@ Coming 13 November.
 
 ---
 
-I make small things, mostly for a little E Ink phone, and tinker with a few home servers that
-several of them talk to. They keep to themselves — no accounts, nothing sent to me, nothing that
-needs looking after. Most of the work is deciding what to leave out.
+I make small things, mostly for the Mudita Kompakt, a little E Ink phone. There are about fifty
+of them now: the everyday things a phone is for, and a few for walking, listening and playing.
+Some talk to the home servers I tinker with. They keep to themselves — no accounts, nothing sent
+to me, nothing that needs looking after. Most of the work is deciding what to leave out.
 
-Every app, with a picture of each and a link to download it, is at
-[wanderthe.dev](https://wanderthe.dev).
+Every app, with a picture and a link to download it, is at [wanderthe.dev](https://wanderthe.dev).
