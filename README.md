@@ -2,7 +2,7 @@
 
 [![Supper by the fire at nightfall in the dark wood: wander with the pan on, a cup of tea, Kumo the llama lying by](https://wanderthe.dev/shots/sanpo.gif)](https://wanderthe.dev/#wander)
 
-A small game for the Kompakt: a walk in the redwoods with Kumo the llama. Nothing to win:
+A small game: a walk in the redwoods with Kumo the llama. Nothing to win:
 mushrooms and berries to pick, animals to wait for, a notebook that draws what you meet.
 Coming 13 November.
 
