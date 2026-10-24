@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://hotspringsllamas.org/donate/"><picture><source media="(prefers-color-scheme: dark)" srcset="llama-dark.svg"><img src="llama.svg" alt="A llama" width="96"></picture></a><br>
+<a href="https://hotspringsllamas.org/donate/"><b>feed the llamas</b></a><br>
+<sub>or <a href="https://github.com/sponsors/wanderwildwood">sponsor me on GitHub</a></sub>
+</p>
+
 ## Wander / 散歩 sanpo
 
 [![Supper by the fire at nightfall in the dark wood: wander with the pan on, a cup of tea, Kumo the llama lying by](https://wanderthe.dev/shots/sanpo.gif)](https://wanderthe.dev/#wander)
