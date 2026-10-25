@@ -13,8 +13,8 @@
 <td valign="middle" align="center" width="200">
 
 <p align="center">
-<a href="https://hotspringsllamas.org/donate/"><picture><source media="(prefers-color-scheme: dark)" srcset="llama-dark.svg"><img src="llama.svg" alt="A llama" width="96"></picture></a><br>
-<a href="https://hotspringsllamas.org/donate/"><b>feed the llamas</b></a><br>
+<a href="https://square.link/u/AGu8oT10"><picture><source media="(prefers-color-scheme: dark)" srcset="llama-dark.svg"><img src="llama.svg" alt="A llama" width="96"></picture></a><br>
+<a href="https://square.link/u/AGu8oT10"><b>feed the llamas</b></a><br>
 <sub>or <a href="https://github.com/sponsors/wanderwildwood">sponsor me on GitHub</a></sub>
 </p>
 
