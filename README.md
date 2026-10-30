@@ -1,4 +1,4 @@
-## Wander / 散歩 sanpo - Coming 13 November 2026
+## Wander / 散歩 sanpo - Coming soon
 
 [![Supper by the fire at nightfall in the dark wood: wander with the pan on, a cup of tea, Kumo the llama lying by](https://wanderthe.dev/shots/sanpo.gif)](https://wanderthe.dev/#wander)
 
